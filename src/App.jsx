@@ -9,25 +9,25 @@ export default function App() {
       <nav className="desktop-nav">
         <div className="home-button">Home</div>
         <div>
-          About Us <FaAngleDown />
+          Mock <FaAngleDown />
         </div>
         <div>
-          Who We Serve <FaAngleDown />
+          Mock <FaAngleDown />
         </div>
         <div>
-          Knowledge Center <FaAngleDown />
+          Mock <FaAngleDown />
         </div>
         <div>
-          News <FaAngleDown />
+          Mock <FaAngleDown />
         </div>
         <div>
-          People <FaAngleDown />
+          Mock <FaAngleDown />
         </div>
         <div>
-          Blog <FaAngleDown />
+          Mock <FaAngleDown />
         </div>
         <div>
-          Connect <FaAngleDown />
+          Mock <FaAngleDown />
         </div>
       </nav>
       <nav className="mobile-nav">
