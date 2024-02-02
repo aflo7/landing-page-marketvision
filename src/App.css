@@ -16,7 +16,7 @@ main > div {
 }
 
 main > div {
-  max-width: 1400px;
+  max-width: 1200px;
 }
 p {
   margin: 0;
@@ -29,7 +29,7 @@ h3 {
 }
 
 .overview-wrapper-inner {
-  max-width: 1400px;
+  max-width: 1200px;
   margin: 0 auto;
   text-align: center;
   display: flex;
